@@ -13,7 +13,7 @@ Windows mouse control with Flask
 - Move finger on right side of screen: scroll
 
 ## Notes
-This was only tested on iOS 9 with an iPod 5G
+This was only tested on iOS 9 with an iPod 5G and an iPad 2, although since it is a website, it should work on all devices
 
 ## Future
 Somehow make it faster:
