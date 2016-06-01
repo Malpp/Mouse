@@ -4,7 +4,7 @@ Windows mouse control with Flask
 ## Setup
 0. Get the requirements for python (Flask)
 1. Run the python script
-2. On a mobile device, go to your computer local IP
+2. On a mobile device, go to your computers local IP
 
 ## How to use
 - Single tap: Left click
